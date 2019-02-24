@@ -15,3 +15,7 @@ made a temporary package for the same
 <p>&nbsp;&nbsp; install.packages('devtools')</p>
 <p>}</p>
 <p>devtools::install_github('saqsham/tempnnclust')</p>
+
+
+<p>Package will install under name 'nnclust' in your specified path or the default path </p>
+<p>Validate using cmd <strong>library(nnclust)</strong></p>
