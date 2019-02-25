@@ -2,8 +2,8 @@
 <p>nnclust replacement</p>
 <p>I am learning and wasn't able to find suitable replacemnt for nnclust, so i thought of this method</p>
 
-<p>In R version 3.5 </p>
-<p>no package for nnclust</p>
+<p>In R version x.y </p>
+<p>if no package is available for nnclust</p>
 <p>
 made a temporary package for the same
 </p>
