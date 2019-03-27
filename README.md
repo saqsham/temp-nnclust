@@ -18,4 +18,4 @@ made a temporary package for the same
 
 
 <p>Package will install under name 'nnclust' in your specified path or the default path </p>
-<p>Validate using cmd <strong>library(nnclust)</strong></p>
+<p>Validate using <strong>library(nnclust)</strong></p>
