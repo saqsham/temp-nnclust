@@ -1,4 +1,4 @@
-<h3> tempnnclust</h3>
+<h3> temp-nnclust</h3>
 <p>nnclust replacement</p>
 <hr>
 <p>In R version x.y </p>
